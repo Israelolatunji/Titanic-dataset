@@ -1,5 +1,5 @@
 ```python
-## **Data Preprocessing**  
+## Data Preprocessing
 
 ### **Importing Libraries**
 
